@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Zen+Antique&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Roboto&family=Zen+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Playfair+Display:ital@1&family=Roboto&family=Zen+Antique&display=swap');
 body {
   margin: 0;
 }
@@ -22,4 +23,26 @@ body {
 #navbar a{
   color: white;
   text-decoration: none;
+}
+#homePage {
+  text-align: center;
+}
+#biography {
+  background-color: #14213D;
+  color: #FDC05D;
+  width: 500px;
+  margin: auto;
+  font-size: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+#signature {
+  font-family: 'Dancing Script', cursive;
+}
+#signatureHead {
+  padding-top: 20px;
+  font-family: 'Dancing Script', cursive;
+}
+#welcome {
+  font-family: 'Dancing Script', cursive;
 }
