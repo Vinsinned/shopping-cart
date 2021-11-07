@@ -1,6 +1,4 @@
 import './App.css';
-import { Link } from 'react-router-dom';
-import Shop from './components/Shop';
 
 function App() {
   //this will be my about
