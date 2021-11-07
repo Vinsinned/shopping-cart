@@ -55,7 +55,7 @@ body {
 }
 #itemCard img {
   width: 50%;
-  height: auto;
+  height:  80px;
   object-fit: contain;
   border-radius: 20px;
 }
@@ -89,6 +89,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+#aboutUs {
+  text-align: center;
 }
 .buttons {
   border: 1px solid #FFDF00;
